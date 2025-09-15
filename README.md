@@ -55,6 +55,7 @@ Nosso objetivo é **integrar o sistema físico de detecção de gols ao site**, 
 ### Utilizamos a plataforma: **Wokwi**.  
 <img width="841" height="729" alt="Image" src="https://github.com/user-attachments/assets/6da8e02f-57e9-4e39-8428-3a5f5edd0ea5" />
 <br>  
+
 [Link do Projeto - Wokwi](https://wokwi.com/projects/441577377092367361)  
 
 ## Vídeo do Projeto 🎥
