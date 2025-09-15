@@ -33,7 +33,11 @@ Estamos desenvolvendo um **site para auxiliar na organização dos campeonatos**
 - Montagem automática de chaveamentos.  
 - Registro digital de resultados.  
 
-Nosso objetivo é **integrar o sistema físico de detecção de gols ao site**, para que cada gol detectado seja automaticamente registrado na plataforma, criando estatísticas e tabelas em tempo real.  
+Nosso objetivo é **integrar o sistema físico de detecção de gols ao site**, para que cada gol detectado seja automaticamente registrado na plataforma, criando estatísticas e tabelas em tempo real.
+
+### Diagrama dos planos futuros:
+
+<img width="839" height="792" alt="Image" src="https://github.com/user-attachments/assets/770cbe30-e0fb-44ee-a3c6-4c2fa1b36ce0" /> 
 
 ## Ferramentas 🛠️
 ### Para a realização desse projeto utilizamos:
