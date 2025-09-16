@@ -37,7 +37,7 @@ Nosso objetivo é **integrar o sistema físico de detecção de gols ao site**, 
 
 ### Diagrama dos planos futuros:
 
-<img width="839" height="792" alt="Image" src="https://github.com/user-attachments/assets/770cbe30-e0fb-44ee-a3c6-4c2fa1b36ce0" /> 
+<img width="547" height="518" alt="Image" src="https://github.com/user-attachments/assets/af08110a-18c9-4889-a0b3-aa9b11ee5ea8" />
 
 ## Ferramentas 🛠️
 ### Para a realização desse projeto utilizamos:
