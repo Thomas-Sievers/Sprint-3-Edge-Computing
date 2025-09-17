@@ -59,4 +59,4 @@ Nosso objetivo é **integrar o sistema físico de detecção de gols ao site**, 
 [Link do Projeto - Wokwi](https://wokwi.com/projects/441577377092367361)  
 
 ## Vídeo do Projeto 🎥
-[Assista ao Projeto em Ação](https://youtube.com/watch?v=SEU_LINK_AQUI)  
+[Assista ao Projeto em Ação](https://www.youtube.com/watch?v=lVWfVU7z4js)  
